@@ -7,6 +7,9 @@ Welcome to the Interview Journey repository! This guide contains commonly asked 
 - [CSS](#css)
 - [JavaScript](#javascript)
 - [React](#react)
+- [Web Security](#Web Security)
+- [Web Performance](#Web Performance)
+- [Web Optimization](#Web Optimization)
 
 ---
 
@@ -57,3 +60,39 @@ Welcome to the Interview Journey repository! This guide contains commonly asked 
 8. How does React Router work? Explain its key components.
 9. What is Redux, and why might you use it in a React application?
 10. Explain the concept of conditional rendering in React.
+
+## Web Security
+1. What is Cross-Site Scripting (XSS) and how can it be prevented?
+2. Explain Cross-Site Request Forgery (CSRF) and methods to mitigate it.
+3. Describe the importance of Content Security Policy (CSP) in web security.
+4. What are SQL injection attacks? How can they be prevented?
+5. Explain the Same-Origin Policy and its role in web security.
+6. Describe the role of HTTPS in securing web communications.
+7. What are the common security threats associated with session management?
+8. How does Clickjacking work, and what measures can prevent it?
+9. Explain the importance of input validation in preventing security vulnerabilities.
+10. Describe the role of WAF (Web Application Firewall) in web security.
+
+## Web Performance
+1. What is the significance of website performance optimization?
+2. Describe the differences between latency and bandwidth.
+3. Explain how browser caching impacts web performance.
+4. Describe the benefits of using a Content Delivery Network (CDN) for website performance.
+5. What is minification in web development, and how does it improve performance?
+6. Explain lazy loading in the context of web performance optimization.
+7. How can you optimize images for better web performance?
+8. Describe the impact of asynchronous loading of scripts on web performance.
+9. Explain the critical rendering path and its importance in web performance.
+10. How can you measure and analyze website performance metrics?
+
+## Web Optimization
+1. Describe the principles of responsive web design and its importance.
+2. What is the purpose of browser rendering engines in web optimization?
+3. Explain the concept of resource prefetching and its benefits.
+4. Describe the role of compression techniques in web optimization.
+5. How can you optimize CSS and JavaScript for better performance?
+6. Explain the importance of reducing HTTP requests for web optimization.
+7. Describe the impact of code splitting on web optimization.
+8. What are some techniques to optimize font loading on a website?
+9. How can you use service workers for web optimization and offline functionality?
+10. Explain the role of A/B testing in web optimization and conversion rate optimization (CRO).
