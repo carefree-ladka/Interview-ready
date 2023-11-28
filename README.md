@@ -11,58 +11,49 @@ Welcome to the Interview Journey repository! This guide contains commonly asked 
 ---
 
 ## HTML
-### 1. What is HTML?
-Answer: HTML (Hypertext Markup Language) is a standard markup language used to create the structure and content of web pages.
-
-### 2. What are some semantic HTML elements and their significance?
-Answer: Semantic HTML elements (e.g., <header>, <footer>, <section>) provide meaning to the content and help improve accessibility and SEO.
-
-### 3. Explain the difference between <div> and <span>.
-Answer: <div> is a block-level element, while <span> is an inline element. <div> is used for block-level grouping, and <span> is used for inline styling or grouping.
-
----
+1. What is HTML?
+2. Explain the difference between HTML and XHTML.
+3. Describe the purpose of HTML5 doctype.
+4. What are the new features introduced in HTML5?
+5. What is the difference between <div> and <span>?
+6. Explain the significance of semantic HTML elements.
+7. Describe the HTML5 semantic elements.
+8. What is the purpose of alt attribute in an image tag?
+9. How can you create a hyperlink in HTML?
+10. What is the difference between <strong> and <b> tags?
 
 ## CSS
-### 1. Describe the box model in CSS.
-Answer: The CSS box model consists of content, padding, border, and margin around an element, defining its layout.
-
-### 2. What are the differences between margin and padding?
-Answer: Margin is the space outside an element, while padding is the space inside an element, between the content and the border.
-
-### 3. Explain the difference between position: relative, position: absolute, and position: fixed.
-Answer: 
-- position: relative positions an element relative to its normal position.
-- position: absolute positions an element relative to its nearest positioned ancestor.
-- position: fixed positions an element relative to the viewport, so it stays in a fixed position while scrolling.
-
----
+1. What is the box model in CSS?
+2. Explain the differences between inline, block, and inline-block elements.
+3. How does CSS specificity work?
+4. Describe the difference between padding and margin.
+5. Explain the difference between relative and absolute positioning in CSS.
+6. Describe the CSS flexbox layout and its properties.
+7. What are pseudo-classes in CSS?
+8. How does the 'float' property work in CSS?
+9. Explain the purpose of media queries in responsive web design.
+10. What is the importance of the 'z-index' property in CSS?
 
 ## JavaScript
-### 1. What is closure in JavaScript?
-Answer: A closure is the combination of a function and the lexical environment within which the function was declared, allowing access to outer function variables even after the outer function has finished executing.
-
-### 2. What is the difference between let, const, and var?
-Answer: 
-- var is function-scoped, while let and const are block-scoped.
-- var can be redeclared and updated, while let can be updated but not redeclared, and const cannot be redeclared or updated.
-
-### 3. Explain event delegation in JavaScript.
-Answer: Event delegation is a technique where a parent element listens for events on behalf of its children. This is useful for handling events efficiently on dynamically added elements.
-
----
+1. What is JavaScript? Explain its features.
+2. Describe the difference between == and === in JavaScript.
+3. What are closures in JavaScript? Explain with an example.
+4. How does hoisting work in JavaScript?
+5. Explain the concepts of callback functions and their use in JavaScript.
+6. What is the difference between let, const, and var in JavaScript?
+7. Describe the purpose of promises in JavaScript.
+8. What are arrow functions in JavaScript? How do they differ from regular functions?
+9. How does event delegation work in JavaScript?
+10. What is the difference between synchronous and asynchronous programming in JavaScript?
 
 ## React
-### 1. What is React and its key features?
-Answer: React is a JavaScript library for building user interfaces. Its key features include virtual DOM, component-based architecture, and JSX syntax.
-
-### 2. What are the differences between functional components and class components in React?
-Answer: 
-- Functional components are plain JavaScript functions that return JSX elements, while class components are ES6 classes extending React.Component.
-- Functional components use functional syntax (hooks) for state and lifecycle management.
-
-### 3. Explain the purpose of React Router.
-Answer: React Router is a library used for routing in React applications, enabling navigation and rendering different components based on URLs.
-
----
-
-Feel free to expand these sections, add more questions, or include further details as needed for your interview journey guide.
+1. What is React and its key features?
+2. Explain the concept of Virtual DOM in React.
+3. Describe the differences between class components and functional components in React.
+4. How does state differ from props in React?
+5. What are React hooks? Provide examples.
+6. Explain the purpose of key props in React lists.
+7. Describe the component lifecycle methods in React.
+8. How does React Router work? Explain its key components.
+9. What is Redux, and why might you use it in a React application?
+10. Explain the concept of conditional rendering in React.
