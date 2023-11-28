@@ -7,9 +7,9 @@ Welcome to the Interview Journey repository! This guide contains commonly asked 
 - [CSS](#css)
 - [JavaScript](#javascript)
 - [React](#react)
-- [Web Security](#Web Security)
-- [Web Performance](#Web Performance)
-- [Web Optimization](#Web Optimization)
+- [Web Security](#WebSecurity)
+- [Web Performance](#WebPerformance)
+- [Web Optimization](#WebOptimization)
 
 ---
 
@@ -61,7 +61,7 @@ Welcome to the Interview Journey repository! This guide contains commonly asked 
 9. What is Redux, and why might you use it in a React application?
 10. Explain the concept of conditional rendering in React.
 
-## Web Security
+## WebSecurity
 1. What is Cross-Site Scripting (XSS) and how can it be prevented?
 2. Explain Cross-Site Request Forgery (CSRF) and methods to mitigate it.
 3. Describe the importance of Content Security Policy (CSP) in web security.
@@ -73,7 +73,7 @@ Welcome to the Interview Journey repository! This guide contains commonly asked 
 9. Explain the importance of input validation in preventing security vulnerabilities.
 10. Describe the role of WAF (Web Application Firewall) in web security.
 
-## Web Performance
+## WebPerformance
 1. What is the significance of website performance optimization?
 2. Describe the differences between latency and bandwidth.
 3. Explain how browser caching impacts web performance.
@@ -85,7 +85,7 @@ Welcome to the Interview Journey repository! This guide contains commonly asked 
 9. Explain the critical rendering path and its importance in web performance.
 10. How can you measure and analyze website performance metrics?
 
-## Web Optimization
+## WebOptimization
 1. Describe the principles of responsive web design and its importance.
 2. What is the purpose of browser rendering engines in web optimization?
 3. Explain the concept of resource prefetching and its benefits.
