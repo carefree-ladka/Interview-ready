@@ -15,15 +15,18 @@ Welcome to the Interview Journey repository! This guide contains commonly asked 
 
 ## HTML
 1. What is HTML?
-2. Explain the difference between HTML and XHTML.
-3. Describe the purpose of HTML5 doctype.
-4. What are the new features introduced in HTML5?
-5. What is the difference between <div> and <span>?
-6. Explain the significance of semantic HTML elements.
-7. Describe the HTML5 semantic elements.
-8. What is the purpose of alt attribute in an image tag?
-9. How can you create a hyperlink in HTML?
-10. What is the difference between <strong> and <b> tags?
+2. Use of Doctype tag
+3. Use of meta tag 
+4. Explain the difference between HTML and XHTML.
+5. Describe the purpose of HTML5 doctype.
+6. What are the new features introduced in HTML5?
+7. What is the difference between <div> and <span>?
+8. Explain the significance of semantic HTML elements.
+9. Describe the HTML5 semantic elements.
+10. What is the purpose of alt attribute in an image tag?
+11. How can you create a hyperlink in HTML?
+12. What is the difference between <strong> and <b> tags?
+13. Web worker & service worker 
 
 ## CSS
 1. What is the box model in CSS?
@@ -39,15 +42,53 @@ Welcome to the Interview Journey repository! This guide contains commonly asked 
 
 ## JavaScript
 1. What is JavaScript? Explain its features.
-2. Describe the difference between == and === in JavaScript.
-3. What are closures in JavaScript? Explain with an example.
-4. How does hoisting work in JavaScript?
-5. Explain the concepts of callback functions and their use in JavaScript.
-6. What is the difference between let, const, and var in JavaScript?
-7. Describe the purpose of promises in JavaScript.
-8. What are arrow functions in JavaScript? How do they differ from regular functions?
-9. How does event delegation work in JavaScript?
-10. What is the difference between synchronous and asynchronous programming in JavaScript?
+2. Event loop, macro vs micro queue
+3. Precedence of macro and micro queue
+4. **__proto** vs **[[Prototype]]** and prototypal inheritance
+5. Prototype chain
+6. Closure inside for loops and setTimeout
+7. Object.create()
+8. Apply, Bind & Call
+9. How **this** keyword works?
+10. How hoisting works in js?
+11. Scope & scope chain
+12. ES6 features
+13. callback vs promises vs async await
+14. Polyfills of bind, apply, call 
+15. Polyfills of map, filter, reduce
+16. Types of errors
+17. Fetch and axios
+18. Array & Object destructuring
+19. Rest & spread operator
+20. Nullish coalescing (??) , optional chaining (?.) operators
+21. Generator functions
+22. Set vs Map
+23. for of vs for in vs for
+24. "use strict" directive
+25. Describe the difference between == and === in JavaScript.
+26. What are closures in JavaScript? Explain with an example.
+27. Object faltten & array flattening?
+28. Explain the concepts of callback functions and their use in JavaScript.
+29. What is the difference between let, const, and var in JavaScript?
+30. Describe the purpose of promises in JavaScript.
+31. What are arrow functions in JavaScript? How do they differ from regular functions?
+32. How does event delegation work in JavaScript?
+33. What is the difference between synchronous and asynchronous programming in JavaScript?
+34. ```js
+    input : [2, [3] ,[[[4]]]] , output : [2,3,4]
+    const flatten=(arr)=>{}
+    ```
+
+35. ```js
+    const object={
+    a:1,
+    b:{
+    c:3
+    }
+    }
+
+    output: {a:1,b.c:3}
+    ```
 
 ## React
 1. What is React and its key features?
